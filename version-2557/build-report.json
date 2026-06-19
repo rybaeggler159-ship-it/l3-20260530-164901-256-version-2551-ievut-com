@@ -1,0 +1,19 @@
+{
+  "movies": 2000,
+  "detail_pages": 2000,
+  "category_pages": 10,
+  "m3u8_sources": 20,
+  "html_pages": 2014,
+  "category_counts": [
+    200,
+    200,
+    200,
+    200,
+    200,
+    200,
+    200,
+    200,
+    200,
+    200
+  ]
+}
